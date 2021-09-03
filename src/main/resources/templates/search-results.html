@@ -8,17 +8,6 @@
 <div class="container-fluid">
     <i class="fas fa-search fa-2x"></i>
     <br>
-    <div class="row">
-    <form class="form-inline" th:action="@{/search}" method="get">
-        <div class="col-md-6">
-            <input type="search" class="form-control" name="keyword" placeholder="keyword" aria-label="username">
-        </div>
-
-        <div class="col-md-6">
-            <button type="submit" value="Search" class="btn btn-primary">Search</button>
-        </div>
-    </form>
-    </div>
 </div>
 
 <br>
@@ -37,16 +26,16 @@
         </tr>
         </thead>
 
-        <tr th:each="user : ${listUsers}">
+        <tr th:each="user : ${searchResult}">
             <td th:text="${user.id}"></td>
             <td th:text="${user.username}"></td>
             <td th:text="${user.email}"></td>
             <td th:text="${user.phone}"></td>
 
-                <td>
-                    <a class="btn btn-danger" th:href="@{'/users/delete/' + ${user.id}}" >Delete</a>
-                    <a class="btn btn-warning" th:href="@{'users/edit/' + ${user.id}}" >Edit</a>
-                </td>
+            <td>
+                <a class="btn btn-danger" th:href="@{'/users/delete/' + ${user.id}}" >Delete</a>
+                <a class="btn btn-warning" th:href="@{'users/edit/' + ${user.id}}" >Edit</a>
+            </td>
             <td th:text="${date}"></td>
 
 
