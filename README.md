@@ -1,9 +1,11 @@
 # MyWebApp
 
 1. Dibutuhkan 1 menu data karyawan dengan fitur sbb:
-![Screen Shot 2021-09-03 at 08 08 06](https://user-images.githubusercontent.com/20709687/131936178-11be7192-3cdd-437f-b355-2913ba490d4f.png)
+![Screen Shot 2021-09-03 at 08 08 06](https://user-images.githubusercontent.com/20709687/131936178-11be7192-3cdd-437f-b355-2913ba490d4f.png)  
 
-  a. Pencarian data Karyawan
+
+  a. Pencarian data Karyawan  
+  ![Screen Shot 2021-09-03 at 08 14 14](https://user-images.githubusercontent.com/20709687/131939036-ad1d9d38-4779-4144-a18b-d0bb07d4c927.png)  
 
 i. Pencarian data karyawan berdasarkan kriteria pencarian yang disediakan :
 1. Nama Karyawan
