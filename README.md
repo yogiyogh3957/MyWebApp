@@ -70,4 +70,6 @@ i. Hapus data karyawan berdasarkan kode karyawan
 DATA YANG AKAN DIHAPUS ADALAHD ATA DENGAN ID (34), SEHINGGA TAMPILAN TABEL BARU SBB  
 ![Screen Shot 2021-09-03 at 08 15 34](https://user-images.githubusercontent.com/20709687/131937996-a11e09e5-9f7b-48c6-ae0f-ed79dc5ad4a3.png)  
 TABEL TAMPILAN HTML DIATAS SAMA DENGAN TABEL YANG ADA PADA DATABASE SBB:  
-<img width="464" alt="Screen Shot 2021-09-03 at 08 16 28" src="https://user-images.githubusercontent.com/20709687/131938109-d7eb91e1-857e-47c2-8bc3-5a7d7d85046a.png">
+<img width="464" alt="Screen Shot 2021-09-03 at 08 16 28" src="https://user-images.githubusercontent.com/20709687/131938109-d7eb91e1-857e-47c2-8bc3-5a7d7d85046a.png">  
+DATABASE  
+<img width="191" alt="Screen Shot 2021-09-03 at 08 09 05" src="https://user-images.githubusercontent.com/20709687/131938754-f0249af7-bb2b-4bac-ab38-a2ca930d8cb9.png">  
